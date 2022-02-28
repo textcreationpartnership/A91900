@@ -1,0 +1,433 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The saints longings after their heavenly country. A sermon preached at St. Pauls church on Tuesday the sixth of June; 1654. At a solemn anniversary meeting of the Cheshire Gentlemen, and freemen of the City of London, born in the same county. / By that faithful and painfull servant of Jesus Christ, Mr. Ralph Robinson late minister of Mary Wolnoth London.</title>
+            <author>Robinson, Ralph, 1614-1655.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 65 KB of XML-encoded text transcribed from 22 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91900</idno>
+            <idno type="STC">Wing R1712</idno>
+            <idno type="STC">Thomason E848_3</idno>
+            <idno type="STC">ESTC R207320</idno>
+            <idno type="EEBO-CITATION">99866377</idno>
+            <idno type="PROQUEST">99866377</idno>
+            <idno type="VID">118648</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91900)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118648)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 128:E848[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The saints longings after their heavenly country. A sermon preached at St. Pauls church on Tuesday the sixth of June; 1654. At a solemn anniversary meeting of the Cheshire Gentlemen, and freemen of the City of London, born in the same county. / By that faithful and painfull servant of Jesus Christ, Mr. Ralph Robinson late minister of Mary Wolnoth London.</title>
+                  <author>Robinson, Ralph, 1614-1655.</author>
+               </titleStmt>
+               <extent>[6], 37, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R.I. for Stephen Bowtell, and are to be sold at this shop under Marie Wolnoth church in Lumbard-street,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July 9".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Hebrews XI, 16 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118648:1" rendition="simple:additions"/>
+            <p>The Saints longings After their Heavenly Country. A SERMON Preached at St. <hi>Pauls</hi> Church on Tueſday the ſixth of <hi>June;</hi> 1654. At a Solemn Anniverſary meeting of the
+<hi>Cheſhire</hi> Gentlemen, and Freemen of the City of <hi>London,</hi> born in the ſame County.</p>
+            <p>By that faithfull and painfull Servant of Jeſus Chriſt, Mr. <hi>Ralph Robinſon</hi> late Miniſter of <hi>Mary Wolnoth London.</hi>
+            </p>
+            <q>
+               <bibl>Epheſ. 2. 19.</bibl>
+               <p>Now therefore yee are no more ſtrangers, and Forreigners, but fellow-Citizens of the Saints, and of the, houſhold of God.</p>
+            </q>
+            <q>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </p>
+               <bibl>
+                  <hi>Heb.</hi> 13. 14.</bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed by <hi>R. I.</hi> for <hi>Stephen Bowtel,</hi> and are to be ſold at his Shop under <hi>Marie Wolnoth</hi> Church in Lumbard-ſtreet, 1655.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:118648:2"/>
+            <pb facs="tcp:118648:2"/>
+            <head>TO THE Right Honorable, Right VVorſhip<g ref="char:EOLhyphen"/>full, and the reſt, much Honoured Gen<g ref="char:EOLhyphen"/>tlemen of
+<hi>Cheſhire,</hi> Citizens of <hi>London</hi> &amp;c.</head>
+            <head type="sub">Met together at their ſolemn Annu<g ref="char:EOLhyphen"/>all, Feſtivall Convention of
+<hi>Che<g ref="char:EOLhyphen"/>ſhire</hi>-Men in <hi>London.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">Y</seg>Ou were pleaſed <hi>(Gentle<g ref="char:EOLhyphen"/>men)</hi> the laſt year, when you revived this friend<g ref="char:EOLhyphen"/>ly Meeting of your Countrey men in <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> to deſire Mr. <hi>Ralph Robinſon</hi> to Preach before you, which accor<g ref="char:EOLhyphen"/>dingly hee did, and his Service herein
+<pb facs="tcp:118648:3"/> was accepted with ſuch Approbation by thoſe whom the Lord had put into a Capacity to judge of the Spiritualneſſe and uſefulneſſe of his Sermon, that the Copy thereof was deſired to be publiſhed. It was the Authors purpoſe to have Printed his Sermon, and to have De<g ref="char:EOLhyphen"/>dicated it to you his Country-men, and accordingly hee had made moſt of it rea<g ref="char:EOLhyphen"/>dy for the Preſſe; But the all-wiſe God prevented his Intention by Death. The Subject of this Sermon, is, The Saints Longings after Heaven. Sirs, you are here Minded what Country-men you are, viz.
+<hi>Fellow-Citizens with the Saints, and of the Houſhold of God;</hi>
+               <note place="margin">
+                  <hi>Ephe.
+2. 19.</hi> Mehor eſt Chri<g ref="char:EOLhyphen"/>ſtianus Ruſticus q<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>am Alexander <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Lu
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Nemo me ma<g ref="char:EOLhyphen"/>jor niſi qui juſtion. <hi>Prov.
+12. 26. Pſa. 4. 3. Pſa. 16. 2.</hi>
+               </note> This is the beſt Countrey, true Chriſti<g ref="char:EOLhyphen"/>ans may Challenge that Title to be <hi>Choice of Men,</hi> for ſuch are <hi>more Excellent than their Neighbours,</hi> they are Gods <hi>Choſen ones,</hi> and the moſt
+<pb facs="tcp:118648:3"/> moſt Excellent of the whole World. That which was prounded to you, when this Sermon was preached, as the matter of your hope and deſire, is now the joy and enjoyment of faithfull Mr. <hi>Robinſon,</hi> your Countrey-man, ſafely landed on the ſhore of Eternity, and now poſſeſſed of his heavenly Country. Had God ſpared him, hee had lived to bee a ſpeciall Ornament both to the Country of his birth, and this City of his Abode and Imploiment. But God hath made a great breach both amongſt you and us. The Lord ſanctifie ſuch a ſad Providence unto us all, that wee may faithfully ſerve out our Generation, and ſeriouſly minde our way, and diligently mend our pace towards our heavenly Countrey.</p>
+            <p>If any of you ſhall bee at the trouble to ask why my name (poſsibly unknown
+<pb facs="tcp:118648:4"/> to ſome of you) is ſubſcribed to this Dedication? You may bee pleaſed to know, that it was the requeſt of Mr. <hi>Robinſons</hi> ſorrowfull Widow, that I would take the care of committing this Sermon to the Preſſe, which now in her Name, with all due Reſpects is preſen<g ref="char:EOLhyphen"/>ted and put into your hands, and the Lord write the ſerious and holy Truths herein Contained upon your hearts, and bleſſe your Meeting: For the Glory of God, the Honour and Happineſſe of your Country, and the increaſe of Piety and Charity amongſt your ſelves, which is the Prayer of</p>
+            <closer>
+               <salute>Sirs,</salute>
+               <signed>Your moſt hum<g ref="char:EOLhyphen"/>ble Servant in the Lord, WILLIAM TAYLOR</signed>
+               <dateline>
+                  <hi>From my Study in</hi> Colemanſtreet London,
+<date>July 7. 1655.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:118648:4"/>
+            <head>The Saints longings after their Heavenly Country.</head>
+            <argument>
+               <p>A SERMON Preached at St. <hi>Pauls</hi> Church <hi>London,</hi> on Tueſday the 6 of
+<hi>June,</hi> 1654. At a Solemn Anniverſary meeting of the Gentlemen of <hi>Cheſhire,</hi> Citizens and Inhabitants of <hi>London.</hi>
+               </p>
+            </argument>
+            <epigraph>
+               <bibl>Heb. 11. 16.</bibl>
+               <q>But now they deſire a better Country, that is, an heavenly.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">S</seg>piritual heart can make a hea<g ref="char:EOLhyphen"/>venly improvement of every creature; It can reduce every providence of God to an holy uſe. That which ſome have affirmed of the Philoſophers Stone, that it turns meaner mettals into gold, is moſt true of a gracious heart,
+<pb n="2" facs="tcp:118648:5"/> it turns every creature, and every providence into gold, at leaſt it extracts ſome pure gold out of every providence.</p>
+            <p>The Miniſters of the Goſpel, ſhould of all others learn this holy Chymiſtry: They ſhould ſtudy the holy art of ſpiritualizing the natural affections of men. Our bleſſed Saviour, when he perceived more then ordinary deſires in thoſe that followed him after material bread, doth ſet before them that bread which he knew they had more need of, though their hearts were not ſo much towards it; <hi>Labour not for the meat which periſheth, but for that meat which endureth unto everlaſting life,</hi> Joh. 6. 27. In imitation of this bleſſed Pattern of the <hi>chief Shepherd,</hi> the Prince of Preachers, I have made choice of that Scripture which was now read.</p>
+            <p>This dayes meeting doth teſtifie that there is in your hearts an high eſteem of your native Coun<g ref="char:EOLhyphen"/>try. You are aſſembled before God to pray for it, thankfully to acknowledge that mercy you recei<g ref="char:EOLhyphen"/>ved in it, and all that kindneſs of God which he hath manifeſted ſince he brought you out of it. The Text tells you of a Country, which is in it ſelf far better, and ought to be to each of you far more deſirable then the place of your birth. And if God will bleſs the word of his grace, which is now to be delivered for the raiſing up of your affections towards this glorious place, you will have cauſe to eternity to adore that good hand of his that hath brought you together.</p>
+            <p>That I may bring you to the Text, I ſhall
+<pb n="3" facs="tcp:118648:5"/> briefly ſhew you its coherence with that which goes before.</p>
+            <p>The Apoſtle in the former Chapter, exhorts theſe beleeving <hi>Jews</hi> to conſtancy in the faith, and to the bearing of the croſs with patience; <hi>Yee have need of patience,</hi> ſaith he, <hi>that after yee have done the will of God, ye might receive the promiſe,</hi> Heb.
+10. 36. In this Chapter he goes on to amplifie the ſame Argument: This he doth two wayes.</p>
+            <p>Firſt, by deſcribing the nature of faith from the effects of it. <hi>Faith is the ſubſtance of things hoped for, and the evidence of things not ſeen,</hi> v. 1, 2, 3. Things that are remote from the eye of ſenſe, are neer to the eye of faith. Faith gives a being to the things which God hath promiſed, though carnal reaſon thinks they ſhall never have a being.</p>
+            <p>Another effect of faith is, That <hi>by it the Elders obtained a good report,</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, they received teſtimony, they obtained witneſs from God. It was their faith that juſtified them, it was their faith that ſaved them, it was their faith that made God precious to them, and them dear to God. Faith and Piety will chear a man while he lives, and embalm his name when he is dead. He that would have his name immortalized muſt be a be<g ref="char:EOLhyphen"/>leever. Holineſs though blaſted by men, ſhall have a good report from God.</p>
+            <p>A third effect of faith is, That <hi>through it we un<g ref="char:EOLhyphen"/>derſtand that the worlds were framed by the word of God.</hi> Reaſon can ſee no reaſon why any thing, much leſs ſuch a glorious Fabrick ſhould be produced out of nothing; but faith beleeves that the world
+<pb n="4" facs="tcp:118648:6"/> with all things therein contained, were made at firſt, out of no pre-exiſtent matter, by the powerful creating word of God. Thus the Apoſtle amplifies the Argument in hand by deſcribing the nature of faith. He doth it,</p>
+            <p>Secondly, by illuſtrating the grace of faith from the examples of the beleevers of the Old Teſta<g ref="char:EOLhyphen"/>ment. Theſe are either ſuch as lived before the Flood, as <hi>Abel, Enoch, Noah,</hi> of whoſe faith he ſpeaks fully, verſ. 4, 5, 6, 7. Or they are ſuch as lived after the Flood, in the ſeveral Ages of the world, of whom he makes largely mention what glorious un<g ref="char:EOLhyphen"/>dertakings their faith carryed them through from verſ. 7. to the end of the Chapter.</p>
+            <p>The Text falls under the deſcription of the faith of the renowned Patriarchs <hi>Abraham, Iſaac</hi> and <hi>Jacob.</hi>
+            </p>
+            <p>
+               <hi>Abrahams</hi> faith is commended by two eminent acts of it.</p>
+            <p>Firſt, By his readineſs to forſake his native Coun<g ref="char:EOLhyphen"/>try upon a divine Command. <hi>By faith Abraham, when he was called to go out into a place which he ſhould after receive for an Inheritance, obeyed, and he went out not knowing whither he went,</hi> verſ. 8. A call from heaven will make a beleever do any thing, though it ſeem never ſo irrational, never ſo ſelf-deſtructive. Faith hath feet to walk after God; it hath no heart to diſpute againſt God, or againſt any of his Commands. Though <hi>Abraham</hi> knew not whither he went, yet he knew whom he followed, though the Traveller was ignorant, yet he did be<g ref="char:EOLhyphen"/>leeve he had a skilful Guide. The wiſe God can
+<pb n="5" facs="tcp:118648:6"/> neither miſ-lead, nor miſ-place any of his Chil<g ref="char:EOLhyphen"/>dren.</p>
+            <p>Secondly, The faith of <hi>Abraham</hi> is com<g ref="char:EOLhyphen"/>mended by his ſo journing in the land of Promiſe, as in a ſtrange Country, verſ. 9. And in this act did <hi>Iſaac,</hi> and
+<hi>Jacob</hi> concur with him. <hi>By faith he ſo<g ref="char:EOLunhyphen"/>journed in the land of promiſe, as in a ſtrange Country, dwelling in Tabernacles with Iſaac, and Jacob, the heirs with him of the ſame promiſe.</hi> The holy patterns of Parents are very prevalent to perſwade their children. It was much that a man ſhould be contented to leave a certainty for an uncertainty, but it was ex<g ref="char:EOLhyphen"/>ceeding much, that when he came to the place which was promiſed, he ſhould not live in a fixed habitation, but in moveable Tabernacles. It is a high and noble act of faith, to get the affections unglued from the things of the world; Nothing but victorious Faith can obtain victory over the world.</p>
+            <p>The reaſon of that looſneſs of heart, which was in theſe holy Patriarchs from the land of <hi>Canaan,</hi> was the certain perſwaſion they had of a better <hi>Canaan.</hi> Their faith did not reſt in the land of Pro<g ref="char:EOLhyphen"/>miſe, as if the poſſeſſion of that could make them happy; they looked higher; namely, to the Ce<g ref="char:EOLhyphen"/>leſtial <hi>Canaan,</hi> of which they knew the Terreſtrial was but a Type. <hi>They looked for a City that hath foun<g ref="char:EOLhyphen"/>dations, whoſe maker and builder is God,</hi> v. 10. They expected another dwelling, they had another place in their eye, and therefore ſat ſo looſe from the place of their preſent abode. This <hi>Country</hi> muſt either be their own earthly Country, or ſome other; It was not their
+<pb n="6" facs="tcp:118648:7"/> own Country, for ſaith the Apoſtle, <hi>If they had been mindful of that Country from whence they came out, they might have had opportunity to have returned,</hi> verſ.
+15. Therefore of neceſſity it muſt be ſome other Country, if they looked after another Coun<g ref="char:EOLhyphen"/>try, it was either an earthly, or an heavenly; not an earthly, for no earthly Country would recompence the loſs of their own. And therefore he concludes, that it was a heavenly Country, which they reached after; <hi>But now they deſire a better Country, that is, an heavenly.</hi>
+            </p>
+            <p>I ſhall firſt open the words, and then lay down the points which they do afford us.</p>
+            <p>
+               <hi>But now,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> This phraſe doth not here ſignifie time, but hath the force of an illative conjunction: Tis as much as <hi>atqui, igitur,</hi> as <hi>Beza</hi> obſerves well upon the place. They did not ſeek an earthly, therefore an heavenly Country. We meet with the ſame expreſſion, 1 <hi>Cor. 15. 20. But now Chriſt is riſen from the dead,</hi> thatis, therefore is Chriſt riſen: So in this place, <hi>But now they deſire,</hi> that is, therefore they deſire; from whence, ſaith <hi>Eſtius,</hi> it appears how weakly they argue who would from this Text prove that the holy Patriarchs do not yet injoy the viſion of God, but are ſtill in expectation of it. This phraſe ſpeaks nothing at all of time.</p>
+            <p>
+               <hi>They deſi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> The word ſignifies not a cold, faint, frigid with, but a ſtrong vehement earneſt deſire; ſuch a deſire as a covetous man hath after his Mammon. <hi>The love of mony is the root of all evil, which while ſome coveted after, they have erred from the faith,</hi> 1 Tim. 6. 10. Tis the very ſame word
+<pb n="7" facs="tcp:118648:7"/> which is here uſed <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Never did a hungry Earth-worm thirſt after ſilver and gold, more than theſe holy Patriarchs did now thirſt after heaven; they had burning, flaming affections, their ſouls were in a fervent heat after this Celeſtial Ob<g ref="char:EOLhyphen"/>ject.</p>
+            <p>
+               <hi>A better Country.</hi> This word [Country] is not in the original Text, but is neceſſarily to be ſupplied; for the Apoſtle ſpeaks of a Country, verſ. 14. The nature of this Country the Text tells us, namely, <hi>an heavenly.</hi> It is called a Country in oppoſition to that moveable, unſetled eſtate which they had in <hi>Canaan;</hi> there they lived in Tabernacles, but they were in expectation of a place where they ſhould have a fixed abode; This he calls <hi>an heavenly Coun<g ref="char:EOLhyphen"/>try.</hi>
+            </p>
+            <p>The Text conſiſts of three general parts.</p>
+            <p>Firſt, The notion by which heaven is deſcribed: Tis a <hi>Country.</hi>
+            </p>
+            <p>Secondly, The nature or quality of this <hi>Country.</hi> Tis <hi>an heavenly Country.</hi>
+            </p>
+            <p>Thirdly, The beleevers affection, this <hi>heavenly Country,</hi> he deſires it very earneſtly.</p>
+            <p>Theſe three afford us a threefold Obſerva<g ref="char:EOLhyphen"/>tion.</p>
+            <p>Firſt, <hi>That heaven is a beleevers Country.</hi>
+            </p>
+            <p>Secondly, <hi>That this heavenly Country is the beſt Country.</hi>
+            </p>
+            <p>Thirdly, <hi>That true beleevers have vehement and ſtrong deſires within them after this heavenly and better Country.</hi>
+            </p>
+            <div n="1" type="doctrine">
+               <pb n="8" facs="tcp:118648:8"/>
+               <head>Doct. 1. </head>
+               <argument>
+                  <p>
+                     <hi>That Heaven is a beleevers Country.</hi>
+                  </p>
+               </argument>
+               <p>A wicked mans Country is here below, here he lives, and here he deſires to live. An unbeleever is <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> or <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> as <hi>Socrates</hi> called himſelf, he is a Citizen of the world, <hi>terrae filius,</hi> a ſon of earth. He is one that minds only earthly things. His delights, his contentments, his happineſs are in this life, <hi>Pſal.</hi> 17. 14. And if he might have ſecurity that he ſhould alwayes continue here, he would ne<g ref="char:EOLhyphen"/>ver deſire any other place of abode. Give him <hi>Paris,</hi> and let who will injoy <hi>Paradice.</hi> But the true be<g ref="char:EOLhyphen"/>leever<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> Eph. 2. 19.</note> is <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> a Citizen of heaven, a free De<g ref="char:EOLhyphen"/>nizen of that Country where Jeſus Chriſt is at the right hand of God.</p>
+               <p>
+                  <hi>Beleevers do diſclaim and diſown the world as none of theirs.</hi> They have ever acknowledged them<g ref="char:EOLhyphen"/>ſelves Pilgrims and Forreigners on earth. <hi>I am a ſtranger with thee,</hi> ſaith that heavenly Saint, <hi>and a ſtranger as all my Fathers were,</hi> Pſal. 39. 14. The world accounts them as ſtrangers, and ſo do they ac<g ref="char:EOLhyphen"/>count themſelves. They know Chriſt hath told them, That they are not of this world, as he is not of this world: They are <hi>in</hi> the world, but they are not <hi>of</hi> the world; they diſavow the world as much as the world diſavows them.</p>
+               <p>
+                  <hi>As they diſclaim the world, ſo they lay claim to heaven. We deſire,</hi> ſay the holy Apoſtles, <hi>to be cloathed upon with our houſe which is from heaven,</hi> 2 Cor. 5. 2. Belee<g ref="char:EOLhyphen"/>vers, thogh they have never ſo great an eſtate below, yet are they indeed houſe-leſs, and homeleſs, though all the world be theirs, in regard of the little they
+<pb n="9" facs="tcp:118648:8"/> have to it, yet do they account the world none of theirs; Heaven is their home, Heaven is their houſe, heaven is their Country.</p>
+               <p>I ſhall by way of explication unfold theſe two particulars.</p>
+               <p>Firſt, Prove that Heaven is their Country.</p>
+               <p>Secondly, Shew how they come to have a title to it.</p>
+               <p>That Heaven is the beleevers Country, is clear, if we conſider theſe following particulars.</p>
+               <p>Firſt, <hi>From hence they have their Nativity.</hi> The place of mens birth is that which is ſtiled their Country. The beleevers birth, as a beleever, is from heaven, though he be born again
+<hi>on</hi> the earth, yet is he not born again <hi>from</hi> the earth. The Scripture teacheth us, that all that are new crea<g ref="char:EOLhyphen"/>tures are born from above, <hi>John</hi> 3. 3. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Rege<g ref="char:EOLhyphen"/>nerating-work is heavenly work. The Holy Ghoſt which is the principal efficient of Regeneration, is not from earth, but from heaven. No perſon would ever be renewed on earth, if principles of Renovation, were not infuſed from heaven. The word of God which is the ſeed of the new birth, as the Apoſtle calls it, 1 <hi>Pet.</hi> 1. 23. is a heavenly word. The dew of bleſſing by which the word is made ſucceſsful, is not from earth, but from heaven. Should all the Angels of God come down to plant grace in the hearts of men, the work would cer<g ref="char:EOLhyphen"/>tainly miſcarry under their hands, if the divine be<g ref="char:EOLhyphen"/>nediction did not concur. The ſoul in its firſt crea<g ref="char:EOLhyphen"/>tion is infuſed from heaven, and the renuing of it when corrupted, is from thence likewiſe. The
+<pb n="10" facs="tcp:118648:9"/> Elect are not <hi>born again of blood, nor of the will of the fleſh, nor of the will of man, but of God,</hi> ſo the Holy Ghoſt tels us, <hi>Joh.</hi> 1. 13. The child that is concei<g ref="char:EOLhyphen"/>ved in the womb may as well be ſaid to beget it ſelf, as the ſoul that is dead in ſins and treſpaſſes to renew it ſelf, <hi>Of his own will begat he us by the word of truth.</hi> So the Apoſtle tells us, <hi>Jam.</hi> 1. 18. An unregenerate heart hath neither power to change it ſelf, nor a will to be changed, untill it be given from above. All the births of Grace are heavenly births; we are ſaid to be Gods Off-ſpring, as we are men, <hi>Act.</hi>
+17. 28. Much more are we the Off-ſpring of God as renewed men. This is the firſt particu<g ref="char:EOLhyphen"/>lar.</p>
+               <p>2 <hi>There are their ſpiritual Kindred.</hi> A beleevers neareſt Allies, beſt acquaintance are in Heaven; There is God who is his Father; The Divine Eſ<g ref="char:EOLhyphen"/>ſence is every where, filling Heaven and Earth; God is included in no place, excluded out of no place, yet the place of his chief Reſidence is in Heaven, there he keeps his royal Court of glory; Heaven is his Throne, Earth his Footſtool, <hi>Iſa.</hi> 66. 1. We are taught in that holy model of Prayer to look up to God as dwelling above, <hi>Our Father which art in Heaven.</hi> As God the Father of be<g ref="char:EOLhyphen"/>leevers is in Heaven, ſo Chriſt their elder Bro<g ref="char:EOLhyphen"/>ther is there likewiſe; he did bodily aſcend thither after his Reſurrection, and there he ſits on the right hand of the Majeſty on high,
+<hi>Heb.</hi> 1. 3. The hu<g ref="char:EOLhyphen"/>mane nature of Chriſt ſhall not ſtir from Heaven till he come to judge the World, and to fetch his redeemed ones into Heaven. The bleſſed Spirit,
+<pb n="11" facs="tcp:118648:9"/> who is the very ſoul of the beleevers ſoul, that gives it life, and preſerves it alive, is in Heaven al<g ref="char:EOLhyphen"/>ſo. There alſo are the holy Angels, the belee<g ref="char:EOLhyphen"/>vers Life-guard, and from thence they are ſent down to wait on him as he ſtands in need of their ſervice, <hi>Heb.</hi> 1. 14. There is the general Aſſembly of the firſt-born,
+<hi>Heb.</hi> 12. 23. The names of all thoſe that ſhall be ſaved are inrolled there. In one word, all a beleevers ſpiritual Kindred either are or ſhall be there. This is the ſecond particular.</p>
+               <p>3 <hi>There they have their Habitation.</hi> A Belee<g ref="char:EOLhyphen"/>vers fixed ſeat is Heaven; here he is but a lodger, there he is an Inhabitant, there lies his Eſtate, there are his Revenues, a Beleevers Inheritance is above. <hi>The Lord is my portion, ſaith my ſoul,</hi> this was the Churches claim, <hi>Lam. 3. 24. Thou art my dwelling place,</hi> ſaith <hi>David, Pſal.</hi> 90. 1. The corruptible, the fading poſſeſſions of the Saints are on earth, but their Inheritance,
+<hi>that is incorruptible, that withereth not, is reſerved in Heaven, 1 Pet.</hi> 1. 4. They have ſome annual Rents coming in in this life, but the grand Eſtate lies there; their Crown, their Scepter, their Robes, all their <hi>Regalia</hi> their royal habiliments are lockt up in Heaven, and thither muſt they be tranſ<g ref="char:EOLhyphen"/>lated before they have the full poſſeſſion of any of theſe. This is the third particular.</p>
+               <p>4 <hi>The language they ſpeak is the language of Hea<g ref="char:EOLhyphen"/>ven.</hi> Mens ſpeech do diſcover what Country they are of; <hi>Thou art a Galilean,</hi> ſay they to <hi>Peter, and thy ſpeech agreeth thereto, Mark.</hi> 14. 70. The time was when there was but one lip in the world,
+<hi>Gen.</hi> 11. 1. All the ſons of <hi>Adam</hi> ſpake one and the ſame
+<pb n="12" facs="tcp:118648:10"/> language; but ever ſince God confounded the lan<g ref="char:EOLhyphen"/>guage of the World for that inſolent attempt of men, Nations have been diſtinguiſhed one from a<g ref="char:EOLhyphen"/>nother by their ſeveral Tongues. As Nations have languages whereby they are known one from ano<g ref="char:EOLhyphen"/>ther, ſo have the people of God a diſtinct language, whereby they are known from other men. A wick<g ref="char:EOLhyphen"/>ed man, though he may ſometimes have heavenly diſcourſes in his mouth, yet he doth but liſp the language of
+<hi>Canaan;</hi> thoſe that do obſerve him will find him at ſome time or other ſpeaking the language of Hell; his tongue cannot be ſo bridled but it will break out into wicked diſcourſes or into vain communication. Perhaps when he is amongſt the people of God he may ſpeak as a Saint, but when he converſes with his own Companions his ſpeech is agreeable to theirs: But now a Beleever ſpeaks the language of Heaven whereſoever he is, let him be amongſt ſcoffers, amongſt prophane men, yet he is ſtill talking in the ſpeech of his own Country; ſomething of God, of Grace, of Chriſt, of Heaven, he is uttering in every company. If he do at any time let fall an unſeemly word, how is his heart troubled? he cannot have peace till he hath wept out his ſorrows by humble confeſſions into the boſom of God. Few there are that have any communion with a true Beleever but muſt give him this teſtimony, that his ſpeech is not like the ſpeech of other men; His heart is full of Heaven, and his tongue is ever running out Heaven-ward; he will draw ſpiritual inferences from worldly diſ<g ref="char:EOLhyphen"/>courſes; whatever the text is, the gloſs which he
+<pb n="13" facs="tcp:118648:10"/> gives upon, it is ſpiritual and heavenly.</p>
+               <p>5 <hi>There muſt be their eternal abode.</hi> The Apoſtle ſpea<g ref="char:EOLhyphen"/>king of himſelf, and his fellow-beleevers, ſaith, <hi>Here we have no continuing City, but we ſeek one toco me, Heb.</hi> 13. 14. The people of God, as other men, do but take a turn or two on this great Stage of the world and then paſs away. The longeſt time we can any of us expect to live on earth, is but ſeventy or eighty years, our leaſe may expire in a ſhorter time; the eternity that is beyond that time is the beleever to ſpend in Heaven. The bodies of ſome beleevers dwel in the duſt for thouſands of years, but at the Reſur<g ref="char:EOLhyphen"/>rection they ſhall take up their Quarters where the ſoul hath been all that while, namely, in Heaven; <hi>So ſhall we ever be with the Lord, 1 Theſ.</hi> 4. 7. The beleevers being with men in the fleſh, will be at an end perhaps ſooner than he thinks, though not ſooner than he deſires, but his being with the Lord ſhall know no end; the beleever ſhall be with God as long as God hath a being. Thus I have ſhewed you that Heaven is the beleevers Country, which was the firſt thing to be opened.</p>
+               <p>The ſecond follows, namely, How he comes to have a right to it? This I ſhall ſhew two wayes.</p>
+               <list>
+                  <item>1. It is prepared for him.</item>
+                  <item>2. He is prepared for it.</item>
+               </list>
+               <p>Firſt, Heaven is prepared for the Beleever, he hath adouble right to it.</p>
+               <p>1 <hi>Its his by donation.</hi> God who is the great Owner and poſſeſſor both of Heaven and Earth, hath by a free Deed of Gift ſettled Heaven upon
+<pb n="14" facs="tcp:118648:11"/> Beleevers. The gracious Charter is frequently publiſhed and proclaimed in the Goſpel. <hi>I will give unto them eternal life, and they ſhall never periſh; the gift of God is eternal life, Rom.</hi> 6. 23. Beleevers are through grace choſen to Heaven, and Heaven is freely beſtowed on them.</p>
+               <p>2 <hi>Its his by purchaſe.</hi> Heaven is called therefore by the Apoſtle a <hi>purchaſed poſſeſsion, Epheſ.</hi> 1. 14. Je<g ref="char:EOLhyphen"/>ſus Chriſt hath fully gone through with the bar<g ref="char:EOLhyphen"/>gain, it is a free gift in reſpect of us, in reſpect of Chriſt it is a dear purchaſe. Chriſt hath bought and paid for it, and every beleever is a joynt purchaſer with him. The Son of God when he made that eternal Contract with the Father did put into the Deed of Sale the name of every Individual perſon that ſhould poſſeſs it. In both theſe reſpects is Heaven prepared for the Be<g ref="char:EOLhyphen"/>leever.</p>
+               <p>Secondly, <hi>As Heaven is prepared for him, ſo is he prepared for it.</hi> The Apoſtle bleſſeth God for <hi>making us meet to be partakers of the Inheritance of the Saints in light, Col.</hi> 2. 12. The Election of God, and the Pur<g ref="char:EOLhyphen"/>chaſe of Chriſt give the beleever <hi>a Right</hi> to Hea<g ref="char:EOLhyphen"/>ven, but ſomething elſe muſt intervene to make him <hi>meet</hi> for Heaven. Nature that is corrupted, muſt be changed, <hi>Fleſh and blood cannot inherit the Kingdom of Heaven;</hi> Sanctification muſt be wrought before a veſſel of Election can be fit for glory. This Chriſt doth by communicating his own image through the Holy Ghoſt; he takes away the guilt of ſin, by imputing his own Righteouſneſs for Juſti<g ref="char:EOLhyphen"/>fication; he removes the filthineſs of ſin, by imparting
+<pb n="15" facs="tcp:118648:11"/> his own Holineſs for our Sanctification. He infuſes the habits of ſaving Grace, and ſo gives the ſoul a fitheſs for the participation of Glory.
+<hi>Pariſienſis</hi> hath a good ſaying to this purpoſe, <hi>lib de virt. cap. 11. Natura mentis humanae quantumeunquè perfecta naturalibus donis, abſque gratia non eſt ſuſceptibilis gloriae. The ſoul of man though never ſo perfectly inriched with natural Indowments, till it be ſanctified with grace, is not capable of receiving glory.</hi> The Apoſtle puts Calling and Juſtification as <hi>intermedi<g ref="char:EOLhyphen"/>ate</hi> acts between Predeſtination and Glorification; <hi>Rom. 8. 30. Whom he did Predeſtinate, them he alſo Called; and whom he Called, them he alſo Juſtified; and whom he Juſtified, them he alſo Glorified.</hi> A ſoul cannot immediately leap out of a ſtate of ſin into a ſtate of glory, though it be elected to life, but muſt firſt paſs into a ſtate of holineſs; This purgatory every man muſt paſs through that en<g ref="char:EOLhyphen"/>ters into life. Could an unrenewed ſoul be admit<g ref="char:EOLhyphen"/>ted into Heaven, it would be as weary of that place as a Saint would be of Hell; the imployment, the company of Heaven are unſuitable things to an unſanctified heart. There is no coming to the Palace of glory, but by the milky way of grace. Thus I have ſhewed you that Heaven is a Beleevers Coun<g ref="char:EOLhyphen"/>try, and how he comes to have a right to it.</p>
+               <div type="application">
+                  <head>The Application.</head>
+                  <p>Firſt, <hi>It lets us ſee that there is a ſpiritual relation between Beleevers.</hi> True Saints are ſpiritual Coun<g ref="char:EOLhyphen"/>try-men, they are all deſcended from the ſame
+<pb n="16" facs="tcp:118648:12"/> ſtock. Ther eis a real affinity between Chriſtians: They are
+<hi>conſanguinei,</hi> of one blood: They are all brethren: They are all members of one Society: They are co-heirs of one and the ſame inheritance: They have the ſame common privileges, the ſame common promiſes, the ſame common intereſt, the ſame common ſalvation. <hi>I in them, and thou in me, that they may be all one in us,</hi> Joh. 17. 23.</p>
+                  <p>I note this, both to perſwade the people of God to unity among themſelves, and to provoke them to be ſpiritually helpful to one another. Tis very ſad to ſee claſhing between them that are ſo neer<g ref="char:EOLhyphen"/>ly related; <hi>Let there be no ſtrife,</hi> ſaith <hi>Abraham</hi> to
+<hi>Lot, between me and thee, and between my herd-men and thy herd-men, for we are brethren,</hi> Gen. 13. 8. Men of the ſame Country uſe to be cordially united, eſpecially when they are in a foreignland. As its ſad to ſee fallings out, ſo tis very unnatural that they ſhould refuſe to ſerve one another. Theſe ſpiritual Countrymen ſhould rejoyce to pray one for another, to counſel one another, to bear one anothers burdens, they ſhould be ready to perform all ſpiritual kindneſſes one to another, as becomes thoſe that are bred and born in the ſame land. It will be a com<g ref="char:EOLhyphen"/>fortable evidence that you are members of this heavenly Country, if you find upon your hearts ſtrong affections and readineſs of mind to ſerve the ſoul<g ref="char:EOLhyphen"/>concernments of one another.</p>
+                  <p>Secondly, <hi>It ſhould perſwade beleevers to do nothing unworthy of their heavenly Country.</hi> A mans actings are to be anſwerable to his extraction and educa<g ref="char:EOLhyphen"/>tion. The Apoſtle labours to deter the people of
+<pb n="17" facs="tcp:118648:12"/> God from unholy deeds by the indecency and un<g ref="char:EOLhyphen"/>ſutableneſs of ſuch practiſes to their high eſtate; <hi>For<g ref="char:EOLhyphen"/>nication, uncleaneſs, or covetouſnes let it not be once named among you, as becometh Saints,</hi> Eph. 5. 3. Noble actings are expected from ſuch as are nobly born. Many men have been preſerved from unworthy miſcarriages out of reſpect to their Parentage and Country. Irregularities in the life of a beleever, willcaſt ſome reproach upon his heavenly Country, and make others of his brethren of leſs eſteem. For a Citizen of heaven to ſwear, lye, deceive, backbite, over-reach, this is very unſeemly. Oh, I beſeech you for your Countries ſake, ſcorn ſuch baſeneſs; Your heavenly Father that begat you, your hea<g ref="char:EOLhyphen"/>venly Country where you received your firſt breath, all your heavenly kindred will ſuffer much prejudice, much reproach by ſuch unworthineſs. A good man is an honor to his Country. The Learning, the Wiſdome, the Valor, and Proweſs of ſome men have ennobled the very places of their birth. The lewdneſs of ſome men hath brought their very Countries under Proverbs of diſgrace.<note place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>
+                     </note> 
+                     <hi>The Cretians are alwaies liars, evil beaſts, ſlow bellies,</hi> Tit. 1. 12. If men be ſwearers, drunkards, deceivers, diſſemblers, <hi>&amp;c.</hi> they will be accounted the very ſtains and plague-ſores of their Country.</p>
+                  <p>3 <hi>Let it ſerve to perſwade beleevers to magnifie their Country,</hi> make it your deſign to ſerve your Country, and to ſerve it cheerfully. The world hath had ſome
+<hi>Heroes,</hi> men of renown, who have not grudged to ſpend their eſtates &amp; their very blood for their Coun<g ref="char:EOLhyphen"/>tries good, <hi>pro aris &amp; foc is,</hi> for Religion and Liberty,
+<pb n="18" facs="tcp:118648:13"/> they have willingly adventured all. How careful ſhould an heaven-born Chriſtian be to ſeek the ad<g ref="char:EOLhyphen"/>vancement of his celeſtial Country? If you have any ſpark of true worth in you, be intreated to act vigorouſly for your Countries glory. Promote the priviledges of this Country; bring in as many as you can to be in love with it; acquaint the world that lyes in ignorance, with all the advanta<g ref="char:EOLhyphen"/>ges, immunities, excellencies of this glorious place. How careful was <hi>Joſeph</hi> to let his father know what preferments were to be had in
+<hi>Pharaohs</hi> Court; ſaith he to his brethren, <hi>You ſhall tell my fa<g ref="char:EOLhyphen"/>ther of all my glory in Egypt, and of all that you have ſeen,</hi> Gen. 45. 13. All this was done that the old Patriarch might be invited to make haſte thither. Men generally take great delight to be ſpeaking of every little excellency their native Country affords. Beleevers can never ſay ſo much of their heavenly Country as it deſerves. The ſoyl is ſo fruitful, the ayr ſo ſweet, the waters ſo pleaſant, the inhabitants ſo wiſe, beautiful, every thing in it ſo tranſcen<g ref="char:EOLhyphen"/>dently glorious, that no tongue can ſufficiently utter, no pen fully deſcribe the goodneſs of it. Here<g ref="char:EOLhyphen"/>by it will appear that you are indeed free-born men of this Country, if you make it your deſign to im<g ref="char:EOLhyphen"/>print upon your own hearts, and the hearts of thoſe with whom you converſe, high and glorious thoughts of it.</p>
+                  <p>Fourthly, <hi>It ſhews us the reaſon why beleevers find ſuch bad uſage on earth.</hi> The whole world is exceed<g ref="char:EOLhyphen"/>ingly ingaged to the people of God, for their ſakes the world ſtands,
+<hi>they bear up the pillars of it,</hi> Pſ. 75. 3.
+<pb n="19" facs="tcp:118648:13"/> For their ſakes the Sun ſhineth, the Rain falls, when they are gathered into Heaven fire will ſoon break forth upon the world, yet do the wicked of the earth induſtriouſly ſtudy their ruin, they are alwaies plotting and contriving againſt them, the Pſalmiſt obſerves it in his time, Pſa. 83. 3, 4, 5. <hi>They have taken craftie counſel againſt thy people, and con<g ref="char:EOLhyphen"/>ſulted againſt thy hidden ones: They have ſaid, come and let us cut them off from being a people, that the name of Iſrael may be no more in remembrance.</hi> Thoſe that are at deadly enmity among themſelves can u<g ref="char:EOLhyphen"/>nite heads, hearts, and hands together againſt the Saints. <hi>The Tabernacles of Edom, and the Iſhmael<g ref="char:EOLhyphen"/>lites, of Moab, and the Hagarens, &amp;c.</hi> This amongſt others is one reaſon of theſe furious attempts; the children of God are of one Country, and wicked men of another; they are contrary ſeeds, they are of contrary diſpoſitions, Wicked men muſt ei<g ref="char:EOLhyphen"/>ther lay aſide their wickedneſs, or godly men their holineſs, elſe theſe contentions will not ceaſe. Our Saviour foretels all his Diſciples of the worlds ha<g ref="char:EOLhyphen"/>tred, and the cauſe of it: <hi>Becauſe I have choſen you out of the world, therefore doth the world hate you, Joh.</hi> 15. 9. Could the ſervants of God relinquiſh thoſe holy courſes they have taken up, the world and they would ſoon be reconciled. <hi>The righteous is an abomination to the wicked, Prov.</hi> 29. 27. Could a righteous man forſake his righteouſneſs, he might have as good quarter in the World, as other men.</p>
+                  <p>Fifthly, <hi>It ſhould perſwade all Beleevers to obſerve the cuſtoms of their Countrie.</hi> The Apoſtles coun<g ref="char:EOLhyphen"/>ſel
+<pb n="20" facs="tcp:118648:14"/> to the people of God, is, <hi>that they be not confor<g ref="char:EOLhyphen"/>med to this world, Rom.</hi> 12. 2. But that <hi>they be tranſ<g ref="char:EOLhyphen"/>formed by the renewing of their mind.</hi> It is the practiſe of men that love their Country to obſerve the uſa<g ref="char:EOLhyphen"/>ges of it, eſpecially ſuch as are warrantable and praiſ<g ref="char:EOLhyphen"/>worthy; they delight to ſpeak their own Language, to wear their own Apparel, a diſh of meatdreſſed af<g ref="char:EOLhyphen"/>ter the mode of their own Country, hath a ſweeter reliſh than better meats. It becomes the children of God to maintain the cuſtoms, and to be zealous for the holy uſages of their heavenly Country, and not to follow the vain and ſinful cuſtoms of the world. In all lawful things the Servants of the Lord may ſute themſelves to the practiſe of other men; Re<g ref="char:EOLhyphen"/>ligion is not oppoſite to civility and morality. But as to the vain and ſinful Garbes of the world, the godly. muſt be ſtrangers. It is a great ſtrengthen<g ref="char:EOLhyphen"/>ing of the hands of evil men in their evill cuſtoms, when they ſee ſuch as profeſs Religion tread in the ſame ſteps. The world hath a courſe of its own, which Beleevers though they followed it before converſion, muſt follow no longer, <hi>Epheſ.</hi>
+2. 2, 3. they muſt renounce theſe uſages. But as for the holy cuſtoms of their own Nation, they muſt be exact in the obſerving of them, in what days or place ſoever God caſts their lot. And oh that this counſel might prevail with all that pretend to Heaven.</p>
+                  <p>It hath been the holy cuſtom of the Free-men of this Country to pray in their Families, to read the holy Scriptures, to inſtruct and catechize ſuch as were under their charge, to obſerve the ſancti<g ref="char:EOLhyphen"/>fication
+<pb n="21" facs="tcp:118648:14"/> of holy Sabbaths, to ſee that themſelves and their houſes did ſerve the Lord, to wait con<g ref="char:EOLhyphen"/>ſtantly in the Courts of the Lords Houſe, on holy Ordinances,
+<hi>&amp;c.</hi> God commands all that profeſs to be his people, not onely to have the words of his law in their own hearts, but to <hi>teach them diligent<g ref="char:EOLhyphen"/>ly to their children; to talk of them, when they lie down and when they riſe up, Deut.</hi> 6. 7. God commends <hi>A<g ref="char:EOLhyphen"/>braham</hi> for this. <hi>I know</hi> Abraham <hi>that he will com<g ref="char:EOLhyphen"/>mand his children and Houſhold after him to keep the waie of Jehovah, Gen.</hi> 18. 19. It was <hi>Joſhua's</hi> Reli<g ref="char:EOLhyphen"/>gion, that all that were in his houſe ſhould ſerve the Lord, <hi>Joſh.</hi> 24. 15. It was <hi>Daniels</hi> cuſtom to ob<g ref="char:EOLhyphen"/>ſerve his daily times of prayer, <hi>Dan.</hi> 6. 10. It was the cuſtom of that devout Captain <hi>Cornelius, to pray in his houſe, Act.</hi> 10. 30. It was <hi>Davids</hi> cuſtom to go conſtantly with his Train to the place of publique worſhip where the Ordinances of Grace uſed to be diſpenſed, <hi>Pſa.</hi> 42. 4.</p>
+                  <p>Many in our ſad times of Apoſtacy that pretend to a higher pitch of Religion than others, have relin<g ref="char:EOLhyphen"/>guiſhed theſe holy practiſes of Gods antient Saints, and they judge it their perfection that they are be<g ref="char:EOLhyphen"/>yond ſuch forms; they have found out a nearer way to Heaven, which is indeed the way to the Chambers of Death; They can travel to heaven with half that coſt which the people of God have been at in former times. They can lay aſide prayer in their families, they can caſt away the Scriptures, and yet, as they conceive, come as ſoon to Hea<g ref="char:EOLhyphen"/>ven, as they that uſe theſe things. The madneſs and folly, yea, the groſs prophaneneſs of theſe
+<pb n="22" facs="tcp:118648:15"/> Nick-named, Self-creating-Saints, ſhould provoke the rather all that are true members of this heaven<g ref="char:EOLhyphen"/>ly Country to keep up theſe uſages. Do dutys, and reſt on Chriſt, this is the old way, and the good way; Abhor with all deteſtation this fond kind of Religious prophaneneſs, which the Devil labours to impoſe on men for perfection of Pi<g ref="char:EOLhyphen"/>ety, and walk in the ſteps of thoſe Renowned Saints. Theſe practiſes through Faith in Chriſt have brought them thither whither you are tra<g ref="char:EOLhyphen"/>velling. Continue in them as they did, and you ſhal inherit that glory which they now poſſeſs. Thus much for the firſt point, <hi>That Heaven is a Beleevers Country.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="2" type="doctrine">
+               <head>The Second Doctrine.</head>
+               <argument>
+                  <p>That this Heavenly Country is the beſt Country.</p>
+               </argument>
+               <p>The Land of <hi>Canaan</hi> was the beſt of earthly Countries. It is called the <hi>glorious Land,</hi> or the <hi>Land of ornament, Dan. 11. 16. the glorious holy mountain, Dan. 11. 45.</hi> It is called <hi>glory of all Lands, Ezek. 20. 6.</hi> In many reſpects it was the head and renown of all Nations, chiefly in this, be<g ref="char:EOLhyphen"/>cauſe it was Gods earthly dwelling place, where his Kingdom and Sanctuary was erected, yet was the Land of <hi>Canaan</hi> with all its glory a
+<hi>Cabul,</hi> a dir<g ref="char:EOLhyphen"/>ty, filthy, unpleaſant place, in reſpect of this Hea<g ref="char:EOLhyphen"/>venly
+<hi>Canaan.</hi> No Countrie in the world is wor<g ref="char:EOLhyphen"/>thy to be compared to this Country. I ſhall ſet forth the excellency of it above all other places, in theſe following particulars.</p>
+               <p>
+                  <pb n="23" facs="tcp:118648:15"/>Firſt, <hi>It is a Country of eternal continuance.</hi> The Apoſtle ſpeaking of Heaven, cals it a <hi>City that hath foundations, Heb. 11. 10.</hi> The <hi>New Jeruſalem,</hi> which is no other than this heavenly Country, hath twelve Foundations, <hi>Rev.
+21. 14.</hi> It is a <hi>Kingdom that cannot be ſhaken, Heb. 12. 28.</hi> Other Countries are liable to many concuſſions and ſhakings, yea, they are daily in danger of over-turnings. There are few earthly Countries but have had their convultions and ſhakings: Sometimes one Lord hath ruled o<g ref="char:EOLhyphen"/>ver them, ſometimes another hath undermined his Throne, and reigned in his ſtead. How many mutati<g ref="char:EOLhyphen"/>ons of this nature hath our own Land paſſed under And what further changes may yet paſs upon it, is onely known to him who is both the planter and ſupplanter of Nations. But now the ſtate of the celeſtial Country is of perpetual duration; it can<g ref="char:EOLhyphen"/>not be conquered by any foreign Power, it doth and ſhall continue for ever in the ſame height of glory it now is. All other Countries may be made empty and turned apſide down, they may be laid waſte and brought to deſolation, but the beauty of this heavenly Country is a beauty that fadeth not: God himſelf cannot be ſhaken nor can this Country be ſhaken. In all earthly Kingdoms there are Spring-times, and Autumns, Summers, and Winters; But in Heaven there is an eternal Spring without Autumn: Kingdoms on Earth, as men, have their increaſings, perfections, and de<g ref="char:EOLhyphen"/>clinings, but the glorious ſtate of the celeſtial King<g ref="char:EOLhyphen"/>dom is a ſtate of perfection, that knows neither in<g ref="char:EOLhyphen"/>creaſings nor decreaſings.</p>
+               <p>
+                  <pb n="24" facs="tcp:118648:16"/>Secondly, <hi>There is no ungodly perſon to be found in this Country.</hi> It is a Country full of Saints, re<g ref="char:EOLhyphen"/>al Saints, Saints indeed. All Countries on earth have a mixture of good and bad. The Church militant is the moſt glorious Society in the world, and yet even here there hath been, there is, and there will be a mixture; this Barn floor hath chaff as well as Wheat, this field hath Tares as well as good Corn, this garden hath weeds, as wel as flowers, in this net there are bad fiſhes as well as good. If there be ſuch a mixture in the Church, which is the pureſt body on earth, there muſt needs be mixture of holy and prophane in Nations: Yea, it may be concluded without breach of charity, that there are more vicious than vertuous in every earthly Country. <hi>Bona terra mala gens.</hi> This proverb may without ſcandalizing and defamation be uſed of moſt, if not of all, the Nations of the Earth, the Soil is better than the Inhabitants. If we ſearch the very beſt of Countries; even thoſe where Religi<g ref="char:EOLhyphen"/>on hath been longeſt profeſſed, we ſhall find ſome that are the ſpots and ſtains of their Country. Some in every Nation will be found that are proud, covetous, debaucht and prophane. Swearers, Lyars, Adulterers, Theeves, Blaſphemers, Traytors, Murtherers, perjured perſons, Idolaters, theſe, or ſome of theſe inhabit every Nation under Heaven. And if any ſuch be in your meeting this day, they will be ſpots in your Feaſt of Charity when they feaſt with you,
+<hi>Jude</hi> 12. But now in this Heavenly and better Country, which I am ſpeaking of, none of theſe Vermine are to be found, none of theſe
+<pb n="25" facs="tcp:118648:16"/> impoyſoned creatures can live in this Air; It is a holy place, and no unholy thing ſhall ever enter in<g ref="char:EOLhyphen"/>to it. <hi>Be not deceived,</hi> faith the Apoſtle, <hi>neith r Fornicators, nor Idolaters, nor Adulterers, nor abuſers of themſelves with mankind, nor Effeminate, nor Theeves, nor Covetous, nor Drunkards, nor Revilers, nor Extortioners ſhall inherit the Kingdom of God,</hi> 1. Cor. 6. 9, 10. God hath made another place in which ſuch as theſe, living and dying ſo, ſhall be tormen<g ref="char:EOLhyphen"/>ted. <hi>Without ſhall be Dogs and Sorcerers, and Whoremon<g ref="char:EOLhyphen"/>gers, and Murtherers, and Idolaters, and whoſoever loveth &amp; maketh a lye, Rev.</hi> 22. 15. Men have not garniſhed their Parlours to be Sties for Hogs to keep in. God hath not made ſuch a glorious place as Heaven is for impenitent and filthy ſinners. Should a wicked man ſteal into Heaven, he would fright the holy Angels, and the ſpirits of juſt men made per<g ref="char:EOLhyphen"/>fect out of that place: There is nothing in Heaven which affects a wicked man, neither is any thing there which he affects. What a glorious Kingdom muſt that be in which no ungodly perſon ever did or ever ſhall take one ſtep!</p>
+               <p>Thirdly, <hi>There is no Oppreſsion nor Injuſtice in this Country.</hi> There is no Kingdom under Heaven but unrighteous actings are to be found in it; the great devoure the ſmal, and the weaker are trodden down by the ſtronger: The great Empires of the world are but <hi>magna latrocinia,</hi> great places of robbery. Even amongſt Gods own people, where God himſelf was the immediate Law-giver, though there were Statutes perfectly righteous, yet there were many violent perventings of Judgement. The
+<pb n="26" facs="tcp:118648:17"/> Prophets declaim very bitterly againſt devourings, and ſpoilings: There were Kine of <hi>Baſhan</hi> ſeeding in the mountain of <hi>Samaria,</hi> which did nothing but
+<hi>oppreſs the poor and cruſh the needy, Amos</hi> 4. 1. The Prophet complains of
+<hi>Jeruſalem,</hi> the City of God, that ſhe was wholly oppreſſion in the midſt of her. Violence and ſpoil was heard in her. Grief and wounds were continually in the ſight of God,
+<hi>Jerem.</hi> 6. 6, 7. Scarce is there a Kingdom in the World ſo well governed, but oppreſſive Acts may be found in it; The Aſs of the Fatherleſs is driven away, and the Widows Ox taken for a pledg; the naked are made to lodge without cloathing, and to be without a covering in the cold; The fatherleſs are plucked from the Breſt, and the ſheaf is taken from the hungry: Oh that many ſuch unrighteous actings were not to be found in our own Land! Well, however it be on earth, moſt certain it is, That in this heavenly Country there is none of this work. If a man travel from one end of Heaven to another, he ſhall hear no complaining in the ſtreets of it; there is no crying Widows, no ſighing of the Fatherleſs by reaſon of violence and op<g ref="char:EOLhyphen"/>preſſion; there are no Plunderers, no Exactors to be found in and op<g ref="char:EOLhyphen"/>preſſion; there are no Plunderers, no Exactors to be found in all this land of righteouſneſs; Judge<g ref="char:EOLhyphen"/>ment doth here run down like waters, and Righte<g ref="char:EOLhyphen"/>ouſneſs as a mighty ſtream. That is a very glori<g ref="char:EOLhyphen"/>ous promiſe which is made to the Church, <hi>Iſa.</hi> 60. 18.
+<hi>Violence ſhall no more be heard in thy Land, waſting nor deſtruction within thy borders;</hi> This pro<g ref="char:EOLhyphen"/>miſe ſhall perfectly be fulfilled in Heaven, there ſhall neither be waſting nor deſtruction to all eternity;
+<pb n="27" facs="tcp:118648:17"/> There is no unrighteous perſon in Heaven, as hath been ſhewed before; and where there are no unrighteous men, there cannot be any unrighteous acts.</p>
+               <p>Fourthly, <hi>There is neither ſickneſs nor weakneſs in this Country.</hi> In all earthly Kingdoms there are diſ<g ref="char:EOLhyphen"/>eaſes and ſickneſſes of ſeveral ſorts, the whole world indeed by reaſon of ſin is but a <hi>Lazaretto,</hi> a great Hoſpital of ſickly creatures; Though the Climate be never ſo temperature, the Air never ſo pure, yet cannot weakneſs and pains be kept out of any wordly Kingdom or Family: Tombs and Sepul<g ref="char:EOLhyphen"/>chres are to be found in every Country, which is an argument that diſeaſes and dyings have been and ſtill are there; A man can hardly peep into a Fa<g ref="char:EOLhyphen"/>mily but he ſhall ſee ſome Emblem of mortality. In all Kingdoms men eat, and drink, and where there is eating and drinking, there will bee dy<g ref="char:EOLhyphen"/>ing. In the ſtate of Innocency man ſhould have eaten and lived, but now they eat and die; But now Heaven is a healthy Country: The Angels of God that have lived there ever ſince their Crea<g ref="char:EOLhyphen"/>tion have never yet felt head-ach or pain. And the bodies of the Saints that ſhall ſpend their eternity there after the Reſurrection, ſhall not feel one mo<g ref="char:EOLhyphen"/>ments ſickneſs. <hi>They ſhall bunger no more, nor thirſt no more, neither ſhall the Sun light on them, nor any heat, but God ſhall wipe away all tears from their eies, Rev.</hi> 7. 16, 17. Plagues, Feavers, Coughs, Con<g ref="char:EOLhyphen"/>ſumptions, Stone, Gout, Head-ach and other diſ<g ref="char:EOLhyphen"/>eaſes, are things unheard of in this heavenly Coun<g ref="char:EOLhyphen"/>try: This is good news for ſickly Saints. You that
+<pb n="28" facs="tcp:118648:18"/> have lain bed-rid on earth, you that have had the Cottage of the body often ſet on fire by burning Feavers; you that have ſeen the pillars of your earthly houſe decaying by lingring Conſumptions; you that have felt the tormenting pains of Ulcers, of Stone, and other grief creating diſtempers, if you can but get within the bounds of this heavenly Countrie, you ſhall never feel any ſuch afflictions. You ſhall for ever have perfect health both of bodie and mind without the leaſt diſtemper. One blaſt of that pure Air which comes from the ſpicie moun<g ref="char:EOLhyphen"/>tains, will Antidote the crazieſt bodie againſt Diſeaſes, and put it into a ſtate of undecaying health.</p>
+               <p>Fifthly, <hi>It is a Land in which there is perfect peace and quietneſs.</hi> The Kingdoms of this world are full of ſtrife and contention; The ſervants of God though they are a meek and peaceable people, deſi<g ref="char:EOLhyphen"/>ring to follow peace with all men, yet they cannot injoy peace. <hi>Woe is me,</hi> faith David, <hi>that I ſojourn in Meſech, that I dwel in the Tents of Kedar, my ſoul hath long dwelt with him that hateth peace. I am for peace, but when I ſpeak they are for War, Pſa.</hi> 120. 5, 6, 7. The Nations of the world are full of tear<g ref="char:EOLhyphen"/>ings, tumults, ſeditions, emulations, variances and ſtrifes; but now in Heaven there is none of theſe briars and thorns; there is neither maligning, nor undermining, nor envying one another, but perfect Amity, and perfect Charity amongſt all the Inha<g ref="char:EOLhyphen"/>bitants thereof. All thoſe ſinful diſtempers which occaſion ſtrife on earth are baniſhed out of Heaven: Pride is one of the mothers of Variance, <hi>Onely by
+<pb n="29" facs="tcp:118648:18"/> pride, commeth contention, Prov.</hi> 13. 10. In Heaven there is no Pride, and therefore no Contention. Whiſpering and Tale-bearing is another root of diſ<g ref="char:EOLhyphen"/>cord, <hi>Where there is no tale-bearer the ſtrife ceaſeth,</hi> Prov. 26. 20. There is not one of theſe kindle-coals in Heaven, and therefore no diſcord. Difference of judgement is another cauſe of variance; In hea<g ref="char:EOLhyphen"/>ven all the Inhabitants are of one mind, and there<g ref="char:EOLhyphen"/>fore no diſagreement. The Apoſtle tels us that wars and fightings amongſt men ariſe from thoſe luſts that war in their members, <hi>Jam.</hi> 4. 1. In Hea<g ref="char:EOLhyphen"/>ven all theſe luſts are perfectly mortified: All the dwellers in this Country are ſuch as ſeek one ano<g ref="char:EOLhyphen"/>thers good as well as their own. There is no growing one upon another, no incroaching one upon a<g ref="char:EOLhyphen"/>nother within the Bounds of this Country. Con<g ref="char:EOLhyphen"/>ſider it.</p>
+               <p>In Heaven there is perfection of Love in the Saints, to God, and to one another. Every Saint ſees the Image of God clearly, not onely in him<g ref="char:EOLhyphen"/>ſelf, but in every other Saint, which is a ſtrong Load-ſtone to draw out the Affections. And be<g ref="char:EOLhyphen"/>ſides all thoſe imperfections, blemiſhes, ſpots, which were in the Children of God, whilſt they had their abode on earth, which rendered them leſs lovely to one another, are now removed. The bo<g ref="char:EOLhyphen"/>die ariſeth out of the grave as free from ſin renders Saints very lovely one to another, and becauſe there is perfect love, there muſt of neceſſity be perfect a<g ref="char:EOLhyphen"/>greement. Heaven is a place of peace, there ſhall never be jarring or contending to all eternity, which
+<pb n="30" facs="tcp:118648:19"/> gives it the preheminence over all earthly Coun<g ref="char:EOLhyphen"/>tries.</p>
+               <p>Sixthly, <hi>It is a Land wealth and plenty.</hi> Here is the beſt proviſion, bread of life, and water of life, <hi>The meat that indures to eternal life,</hi> Joh. 6. 27. Here is mountains of Spices, how pleaſant, how plentifull is this Country? A Martyr wrote to his friend a little before his death, That he was going to that Country where Gold and Silver bore no price: And well may it be thus ſaid of Heaven, which is the City whoſe ſtreets is of pure Gold, <hi>Rev.</hi>
+21. 21.</p>
+               <div type="application">
+                  <head>The Uſes are theſe.</head>
+                  <p>Firſt, <hi>With what eyes do they look on Heaven that prefer their earthly Country before it?</hi> Abundance are of that prophane Cardinals mind, who would not give his part in
+<hi>Paris</hi> for his part in Paradiſe; Moſt prefer <hi>Egypt</hi> before <hi>Canaan;</hi> Theſe are none of <hi>Abrahams</hi> ſtock, he thought Heaven better than <hi>Canaan,</hi> they judge every dirty Country bet<g ref="char:EOLhyphen"/>ter than Heaven. It is a ſign theſe men have ne<g ref="char:EOLhyphen"/>ver travelled in this Celeſtial Country, it is a ſign they beleeve not what they hear reported of it, that prefer Houſe and Shop, or ſuch Mannors in their own Country, before thoſe rich poſſeſſions that are in Heaven.</p>
+                  <p>Secondly, <hi>Be contented if God have given you an Inheritance in this Country, though you have not ſo great Eſtates on Earth as others have.</hi> One foot breadth in Heaven is worth a hundred Millions of Acres
+<pb n="31" facs="tcp:118648:19"/> on Earth, if you have an intereſt in the body glory, honor, riches of this celeſtial Country, you have more than if you had ten thouſand Worlds. <hi>I have all my Brother</hi> (faith <hi>Jacob) Gen.</hi> 33. 11. He had the dew of Heaven, as well as the fatneſs of the Earth. A man may be a Lord of many Earthly Countries, and yet live and die under the wrath of God. <hi>A<g ref="char:EOLhyphen"/>haſuerus</hi> had the command of all thoſe Countries from <hi>Judea</hi> to
+<hi>Ethiopia</hi> even One hundred twenty ſeven Provinces, and yet, becauſe he was not an In<g ref="char:EOLhyphen"/>heritor of the Kingdom of Heaven, he died miſera<g ref="char:EOLhyphen"/>ble and poor.</p>
+                  <p>Thirdly, <hi>You that have an intereſt in this Country boaſt of it.</hi> It is a great mercy to have our being in a wholeſom Country, ſuch is Heaven, <hi>Revel.</hi> 21. 4. What a mercy is it to have a ſpiritual being from Heaven, and an eternal being in Heaven. Glory in your Country, that others may be provoked to travel to it, to trade in it. This is the ſecond Point.</p>
+               </div>
+            </div>
+            <div n="3" type="doctrine">
+               <head>The third and laſt Doctrine is.</head>
+               <argument>
+                  <p>
+                     <hi>A true Beleever hath ſtrong deſires after his heaven<g ref="char:EOLhyphen"/>ly Country</hi>
+                  </p>
+               </argument>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, faith Text, <hi>they ſeek it,</hi> they ſeek it with their ſtrongeſt deſires, as ſick man ſeeks health, as a covetous man ſeeks money; They groan after it, ſo the Apoſtle expreſſeth it, 2 <hi>Cor. 5. 2. For in this we groan earneſtly, deſiring to be cloa<g ref="char:EOLhyphen"/>thed upon with our houſe which is from Heaven.</hi> Our
+<pb n="32" facs="tcp:118648:20"/> converſation, ſaith the Apoſtle, is in Heaven, <hi>Phil.</hi> 3. 20. Their hearts were carried out aftes it, they longed to be in it. A beleever when he is under ſome ſad darkneſſe of ſpirit, when he hath ſome great work to do, for the good of the Church, may be unwilling to leave the world, as <hi>Hezekiah</hi> was, <hi>Isa.</hi> 38. 2, 3. But when their work is done, when all is clear between God and their ſouls, then they would be in their heavenly Country.</p>
+               <p>Queſt. <hi>What is implyed by this phraſe, deſiring a heavenly Country?</hi>
+               </p>
+               <p>Anſw. 1. <hi>To deſire Heaven, is to labor to have an intereſt in it.</hi> To labor to make it ſure to our ſelves that it doth belong to us, to make good our propriety in it; according to that of the Apoſtle, 2 <hi>Pet. 1. 10. Give all diligence to make your calling and election ſure.</hi>
+               </p>
+               <p>2. <hi>To deſire every day more and more to fit our ſelves for it.</hi> He that ſaith he deſires an heavenly Country, and doth not uſe all diligence <hi>to be made meet for it,</hi> as the Apoſtle ſpeaks, <hi>Col.</hi> 1. 12. doth but mock himſelf.</p>
+               <p>3. <hi>To ſeek a heavenly Country is to long continually to be in it.</hi> This is that which was the <hi>Patriarchs</hi> ſeeking, they longed to be in that heavenly <hi>Canaan,</hi> of which the earthly was a pledge and ſeal.</p>
+               <p>Qu. 2. <hi>Why do Beleevers ſo deſire their heavenly Country?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> Theſe deſires of their heavenly Country ſpring from a double root.</p>
+               <p>1. <hi>The unſatisfactorineſſ they finde in their earthly Countries.</hi> They find nothing here but labor, ſor<g ref="char:EOLhyphen"/>row,
+<pb n="33" facs="tcp:118648:20"/> ſin, toyl, emptineſs, diſappointment, vexati<g ref="char:EOLhyphen"/>on, &amp;c. They have had enough of their earthly Countrie alreadie, therefore, they deſire a better Country. <hi>It is enough Lord, ſaith Elijah, take away my life, for I am no better than my Fathers, I King.</hi>
+19. 4. He had had as much of the world as he did deſire, he had found it to be a lying vanity, there<g ref="char:EOLhyphen"/>fore he deſires to be in another place.</p>
+               <p>And then ſecondly, <hi>The felicity they beleeve and hope for in their Heavenly Country.</hi> They know that they ſhall have in that Country all that their ſouls can wiſh; They ſhall have Grace in per<g ref="char:EOLhyphen"/>fection, Joy in perfection; <hi>I deſire, ſaith the Apo<g ref="char:EOLhyphen"/>ſtle, to be diſſolved and to be with Chriſt, which is beſt of all, Phil.</hi> 1. 23. They ſee that, in their hea<g ref="char:EOLhyphen"/>venly Country, which will make them compleat<g ref="char:EOLhyphen"/>ly happy; So faith <hi>Paul, We know that if our earthly houſe of this Tabernacle was diſſolved, we have a buil<g ref="char:EOLhyphen"/>ding of God, a houſe not made with hands, eternal in the Heavens. For in this we groan earneſtly, deſi<g ref="char:EOLhyphen"/>ring to be cloathed upon with our houſe, which is from Heaven,</hi> 2 Cor. 5. 1, 2.</p>
+               <div type="application">
+                  <head>The Uſes are theſe.</head>
+                  <p>Firſt, <hi>It condemns them that never have any deſire of this Heavenly Country.</hi> They have no ſerious thoughts of it, they ſtudy not how to get thither, they pray not for it, they ſpeak not of it, they love not diſcourſes about it; They drudge and toyl for the world, riſe early, go to bed late, &amp;c. but they minde not Heaven. This is very ſad, How will ſuch men do when they come to die:
+<pb n="34" facs="tcp:118648:21"/> what comfort will they have? if Heaven be not their Country Hell muſt: This Country you muſt leave, and you know not how ſoon, and what will your hundreds, and thouſands, your Hou<g ref="char:EOLhyphen"/>ſes, your Lands then ſtand you in ſtead? you muſt pack away and leave all you have ſcraped together behind you. When you ſee death at your bed ſide, you will wiſh you had minded a better Country more, and the world leſs. It is the complaint of the Church, <hi>Cant.</hi> 1. 6. againſt her mo<g ref="char:EOLhyphen"/>thers Children, <hi>They made me</hi> (ſaith ſhe)
+<hi>the keeper of the vineyards, but my own vineyard have I not kept.</hi> You will another day curſe all your care, and diligence about the world, which hath hin<g ref="char:EOLhyphen"/>dred you from ſeeking Heaven, and this Heavenly Country.</p>
+                  <p>Secondly, <hi>Let me intreat all of you to imitate this example of the Patriarchs.</hi> Seek your better Coun<g ref="char:EOLhyphen"/>try. It is good when men ſeek the good of their Earthly Countrie. You are met this day to te<g ref="char:EOLhyphen"/>ſtifie your reſpects towards your Native Country; It is a lawful and warrantable thing to do ſo. Nature commands men to deſire their native Countrie; It is unthankfulnefs to forget the place which gave us breath, and provided for us our firſt food. The Greek Proverb is,
+<gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, <hi>The ſmoak of a mans own Country is brigh<g ref="char:EOLhyphen"/>ter than flame in a ſtrange Land. Ulyſſes</hi> longed to ſee the ſmoak of his Country. It is an honorible thing for men that have Eſtates to conſult how they may advantage their native Country. Theſe Mee<g ref="char:EOLhyphen"/>tings heretofore have been very inſtrnmental for
+<pb n="35" facs="tcp:118648:21"/> much good, in the erecting of Schools, the maintain<g ref="char:EOLhyphen"/>ing of Lectures, you may help to ſave many a ſoul, as you have ability and opportunity, it would do well to think on theſe things; But above all things be mindful of your Heavenly Countrie.</p>
+                  <p>Firſt, <hi>Never be at reſt till you get good evidences of your Right to the inheritance of that Country.</hi> You will be miſerable whatever outward advantages you have till you have a poſſeſſion in that Country. Prove your ſpiritual Eſtate and Condition, you are all by nature of another Country; we are all born the children of wrath as well as others, <hi>Eph.</hi>
+2. 1, 2. Tis Repentance, Saving Faith, the work of Grace that will witneſs our right to Heaven. Take heed of theſe falſe Evidences, of common Profeſſion, Common Gifts, worldly proſperitie, on which moſt men build their hopes of Salvation. All theſe are but ſandie Foundations. Conſider ſuch Scriptures as theſe, 2 <hi>Cor. 5. 17. Rom. 8. 10. If Chriſt be in you, the body is dead, &amp;c.</hi> Better you had never been than not to have a Title to Hea<g ref="char:EOLhyphen"/>ven.</p>
+                  <p>Secondly, <hi>When you have proved your Right to it, let your thoughts be much on it.</hi> Mind the things of your Country, the glorie, the happineſs of that Country. Let your hearts dwell upon the medi<g ref="char:EOLhyphen"/>tation of Heaven, and the things of heaven; It is Gods command, <hi>Col.</hi> 3. 1. That we would ſet our affections on things above, It was the Apoſtles practiſe, <hi>Phil.</hi> 3.
+20. I might uſe many Argu<g ref="char:EOLhyphen"/>ments to perſwade you to theſe thoughts and ſtu<g ref="char:EOLhyphen"/>dies. As</p>
+                  <p>
+                     <pb n="36" facs="tcp:118648:22"/>Firſt, <hi>Your calling is a Heavenly calling, Heb.</hi> 3. 1. It is a heavenly calling in regard of the Original and Efficient Cauſe. It is heavenly in regard of the Object of it, it is all about things of a heavenly nature. It is heavenly in regard of the tendencie of it. It is a call to Heaven, that is the <hi>Terminus ad quem, Whom he called, them he glorified, Rom.</hi> 8. 30. Glorification is the <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> of effectual Vocati<g ref="char:EOLhyphen"/>on.</p>
+                  <p>2. <hi>All your happineſs is in Heaven,</hi> there it is that your Crown lies, there all your treaſure is, and where ſhould your hearts be, but where your treaſure is? <hi>Matth.</hi> 6.
+21. There is your Riches, there is your eternal abiding if you be Saints. There are your beſt and deareſt Relations.</p>
+                  <p>3 <hi>Not to mind the things of Heaven is an implicite deniall of the reſurrection of Chriſt.</hi> See <hi>Col.</hi> 3. 1. he that doth beleeve that Chriſt ſits at the right hand of God cannot but be often looking up that waie. It is a good evidence that Chriſts Reſurrection and Aſcention have had ſome ſpiritual power upon our hearts, when we minde the place where he is.</p>
+                  <p>4. <hi>The ſerious minding of heavenly things, will make us leſs careful about all earthly occurrences.</hi> He that lives much in Heaven is prepared to entertain any Providences God pleaſes to produce on earth; the heart of ſuch a Chriſtian will be quiet and compoſed whatever fall out. The ſerious thoughts of the good things of that upper Country will make the heart patient, though it have but little, will preſerve it from pride, and ſurfeiting of the greateſt portion of the good things of theſe lower Countries.</p>
+                  <p>
+                     <pb n="37" facs="tcp:118648:22"/>5. <hi>It is the way to have a long Heaven.</hi> It is the way to have a double Heaven; he that lives moſt in Heaven on Earth, hath the longeſt Heaven. The ſerious thoughts of Heaven do after a ſpiritual man<g ref="char:EOLhyphen"/>ner tranſlate the ſoul into heaven, that is a pertinent place to this purpoſe, 2 <hi>Cor.</hi> 3. 18. he that doth by holy meditation view the glory of the Lord, ſhall be vi<g ref="char:EOLhyphen"/>ſibly changed into the image of the Lord.</p>
+                  <p>And then Thirdly, and laſtly, <hi>Be deſirous to be put into poſſeſsion of it.</hi> You muſt ſtaie in this lower world till God ſend the meſſenger of death for you, but yet you may long and breath for ſuch Tranſlation. It is the laſt prayer of the Spouſe, <hi>Can. ult. ult.</hi> &amp; the laſt prayer of the Church, <hi>Rev.</hi> 22. 20. That Chriſt would haſten his coming. It is a happie thing to be conten<g ref="char:EOLhyphen"/>ted to die, twice happie to be deſirous to die. <hi>Plutarch</hi> ſaith that the <hi>Egyptians</hi> at their feaſts did uſually bring in the Anatomie of a dead mans bodie. And <hi>Strabo</hi> writes that the <hi>Perſians</hi> at their Feaſts uſed Pipes made of dead mens bones. He that ſets the Deaths head on his Trencher, will eat moſt ſpiritu<g ref="char:EOLhyphen"/>ally, moſt ſoberly, moſt thankfully. He that is fit to die, and willing to die, is prepared for whatever ſhall come upon the World. We ſhall never be like
+<hi>Abra<g ref="char:EOLhyphen"/>ham, Iſaac,</hi> and <hi>Jacob</hi> till we have theſe deſires after our Heavenly Countrie.</p>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
